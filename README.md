@@ -2,7 +2,7 @@
   <img src="./assets/github_banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hello World, It's Gamze</h1>
+<h1 align="center">hello world, it's gamze</h1>
 
 <h3 align="center">Computer Engineer | AI & ML Enthusiast</h3>
 
@@ -52,25 +52,23 @@ Always learning, building, and experimenting with new technologies.
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,cpp,java,gcp,fastapi,opencv,mariadb,mssql,mongodb,mysql,postgres,figma,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=python" height="52" alt="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=cs" height="52" alt="C#" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="52" alt="C++" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=js" height="52" alt="JavaScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="52" alt="PostgreSQL" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="52" alt="MySQL" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="Apache Airflow" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="52" alt="Google Cloud" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" height="48" alt="CUDA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="52" alt="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="52" alt="PyTorch" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -78,18 +76,9 @@ Always learning, building, and experimenting with new technologies.
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=gmzdag&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=gmzdag&theme=dark&hide_border=false&border_radius=5" height="150"/>
-<br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gmzdag&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 </div>
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmzdag&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
-</p>
 
 <h2 align="center">⌘ Commit Activity</h2>
 
