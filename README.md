@@ -2,7 +2,7 @@
   <img src="./assets/github_banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">hello world, it's <span style="color:#0be604">gamze</span></h1>
+<h1 align="center">hello world, it's gamze</h1>
 
 <h3 align="center">Computer Engineer | AI & ML Enthusiast</h3>
 
