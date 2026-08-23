@@ -2,7 +2,13 @@
   <img src="./assets/github_banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">hello world, it's gamze</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmzdag/gmzdag/main/assets/title-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmzdag/gmzdag/main/assets/title-light.svg">
+    <img src="https://raw.githubusercontent.com/gmzdag/gmzdag/main/assets/title-dark.svg" alt="hello world, it's gamze">
+  </picture>
+</p>
 
 <h3 align="center">Computer Engineer | AI & ML Enthusiast</h3>
 
